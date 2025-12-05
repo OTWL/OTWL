@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on going to Uni next year
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [LinkdIN](https://Linkdin.com)
-- My stats
+<!-- My stats
 [![OTWL's GitHub stats](https://github-readme-stats.vercel.app/api?username=OTWL)](https://github.com/anuraghazra/github-readme-stats)
+-->
