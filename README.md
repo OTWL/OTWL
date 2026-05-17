@@ -4,12 +4,10 @@ I learn by shipping 🚢
 
 ## What I'm working on
 
-- 🌱 Learning JavaScript fundamentals
 - 📖 Learning C#
-- 🤝 Getting into open source contributions
-- 🏗️ Building a personal finance dashboard
+- 🤝 Improving my knowledge of my current skills and tools
 
-## Stack I reach for
+## Skills & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
