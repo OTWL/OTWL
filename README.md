@@ -6,7 +6,7 @@ I learn by shipping 🚢
 
 - 📖 Learning C#
 - 🤝 Improving my knowledge of my current skills and tools
-- 🔧 Collaboratively working on a web based productivity app with one of my friends
+- 🔧 Collaboratively working on a web-based productivity app with one of my friends
 
 ## Skills & Tools
 
