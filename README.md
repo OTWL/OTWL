@@ -24,6 +24,6 @@ I learn by shipping 🚢
 | Project | Description |
 |---|---|
 | [HistA](https://chromewebstore.google.com/detail/hista/pcohfomknjaknmdhalpdljdhcgblapmg) | Browser extension that re-enables spell check on McGraw Hill Connect. Published on Firefox & Chrome. |
-| [Email Verifier API](https://rapidapi.com/OTWL/api/email-verifier32) | Listed on RapidAPI with tiered pricing. Built with Node.js and Express. |
+| [Email Verifier API](https://rapidapi.com/OTWL/api/email-verifier32) |API to verify emails. Built with Node.js and Express. |
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=OTWL&hide_border=true&theme=dark)](https://git.io/streak-stats)
